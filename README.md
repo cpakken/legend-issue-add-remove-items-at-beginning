@@ -1,4 +1,4 @@
-## ISSUES Deletng and Inserting Items in Beginning of List
+## ISSUES Deleting and Inserting Items in Beginning of List
 
 This repos is a minimal reproduction for rendering items
 
